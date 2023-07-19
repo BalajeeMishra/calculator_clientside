@@ -1,0 +1,433 @@
+.image5Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1362.01px;
+  height: 400px;
+  object-fit: cover;
+}
+.bg1Child {
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 1366px;
+  height: 400px;
+}
+.bannerContent,
+.bg1Child,
+.calculateYourCarbonContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bannerContent {
+  top: 192px;
+  left: 168px;
+  width: 1030px;
+  height: 96px;
+}
+.groupChild {
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 1366px;
+  height: 80px;
+}
+.groupChild,
+.groupItem,
+.solutions {
+  position: absolute;
+  top: 0;
+}
+.groupItem {
+  left: 600px;
+  width: 35px;
+  height: 35px;
+}
+.solutions {
+  left: 0;
+  font-weight: 500;
+}
+.vectorIcon {
+  position: absolute;
+  top: 10.5px;
+  left: 78px;
+  width: 12px;
+  height: 7.42px;
+}
+.solutionsParent {
+  position: relative;
+  width: 90px;
+  height: 24px;
+}
+.buyBnz {
+  position: relative;
+  font-weight: 500;
+}
+.groupContainer {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+}
+.group26110772,
+.groupParent {
+  position: absolute;
+  top: 22px;
+  left: 617px;
+  width: 635px;
+  height: 35px;
+}
+.group26110772 {
+  top: 17px;
+  left: 115.82px;
+  width: 77.89px;
+  height: 58px;
+  object-fit: cover;
+}
+.rectangleParent {
+  margin: 0;
+  left: 0;
+  width: 1366px;
+  height: 80px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Poppins;
+}
+.bg1Parent,
+.rectangleParent,
+.text {
+  position: absolute;
+  top: 0;
+}
+.bg1Parent {
+  left: 0;
+  width: 1366px;
+  height: 400px;
+}
+.text {
+  left: 374px;
+  line-height: 18px;
+  font-weight: 500;
+  text-align: left;
+}
+.weHaveDesigned {
+  margin: 0;
+}
+.becomeNetZero {
+  font-weight: 600;
+  font-family: Poppins;
+  color: #52f40d;
+}
+.text1 {
+  position: absolute;
+  top: 38px;
+  left: 121px;
+  font-size: 16px;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #000;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+  width: 370px;
+  height: 229px;
+}
+.completeTheFollowingContainer {
+  position: absolute;
+  top: 40px;
+  left: 0;
+}
+.myPersonalFootprint {
+  position: absolute;
+  top: 0;
+  left: 54px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.completeTheFollowingCalculaParent {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  width: 329px;
+  height: 82px;
+}
+.groupChild1,
+.groupChild2,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  border-radius: 10px;
+  width: 79.48px;
+  height: 79.48px;
+}
+.rectangleDiv {
+  left: 27.39px;
+  background-color: #9f9f9f;
+  transform: rotate(20.15deg);
+  transform-origin: 0 0;
+}
+.groupChild1,
+.groupChild2 {
+  left: 0;
+  background-color: #fff;
+}
+.groupChild2 {
+  top: 0.07px;
+  left: 0.07px;
+  background-color: #d9d9d9;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 10.93px;
+  left: 10.93px;
+  width: 79.55px;
+  height: 79.55px;
+}
+.groupChild3,
+.groupIcon,
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 102px;
+  height: 102px;
+}
+.groupChild3,
+.groupIcon {
+  width: 40px;
+  height: 40px;
+}
+.groupIcon {
+  height: 100%;
+  width: 93.94%;
+  right: 3.56%;
+  bottom: 0;
+  left: 2.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent2,
+.rectangleParent2 {
+  position: absolute;
+  top: 31px;
+  left: 31px;
+  width: 40px;
+  height: 40px;
+}
+.groupParent2 {
+  top: 0;
+  left: 114px;
+  width: 102px;
+  height: 102px;
+}
+.groupChild4,
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  width: 370px;
+  height: 229px;
+}
+.rectangleGroup {
+  left: 390px;
+  cursor: pointer;
+}
+.groupChild4 {
+  left: 0;
+  border-radius: 20px;
+  background-color: #000;
+  border: 0.3px solid #fbfbfb;
+  box-sizing: border-box;
+}
+.completeTheFollowingContainer1 {
+  position: absolute;
+  top: 152px;
+  left: 0;
+}
+.myTripsFootprint {
+  position: absolute;
+  top: 112px;
+  left: 74px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.completeTheFollowingCalculaGroup {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 329px;
+  height: 194px;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 0;
+  left: 780px;
+  width: 370px;
+  height: 229px;
+  cursor: pointer;
+}
+.myCompanyFootprint {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 100%;
+  width: 85.11%;
+  top: 0;
+  right: 7.39%;
+  bottom: 0;
+  left: 7.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv,
+.rectangleParent4 {
+  position: absolute;
+  left: 0;
+  height: 229px;
+}
+.rectangleParent4 {
+  top: 0;
+  width: 370px;
+  cursor: pointer;
+}
+.groupDiv {
+  top: 116px;
+  width: 1150px;
+  font-size: 14px;
+}
+.calculatorInner,
+.textParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1150px;
+  height: 345px;
+}
+.calculatorInner {
+  top: 480px;
+  left: 108px;
+  font-size: 32px;
+  color: #fbfbfb;
+}
+.aboutUs1 {
+  top: 11px;
+  left: 891px;
+  width: 73px;
+  height: 17px;
+}
+.aboutUs1,
+.blogsNews,
+.home,
+.projectDevelopers {
+  position: absolute;
+  display: inline-block;
+}
+.home {
+  top: 11px;
+  left: 595px;
+  width: 73px;
+  height: 17px;
+}
+.blogsNews,
+.projectDevelopers {
+  top: 43px;
+  left: 891px;
+  width: 138px;
+}
+.projectDevelopers {
+  left: 595px;
+}
+.contactUs,
+.corporations,
+.faq1,
+.individuals {
+  position: absolute;
+  top: 79px;
+  left: 891px;
+  display: inline-block;
+  width: 94px;
+}
+.contactUs,
+.corporations,
+.individuals {
+  left: 595px;
+}
+.contactUs,
+.individuals {
+  top: 115px;
+  left: 891px;
+  width: 92px;
+  height: 17px;
+}
+.individuals {
+  left: 595px;
+}
+.frameChild {
+  border-radius: 50%;
+}
+.frameChild,
+.frameInner {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.ellipseParent {
+  position: absolute;
+  top: 93px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+}
+.group261107711 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 97px;
+  height: 72.04px;
+  object-fit: cover;
+}
+.aboutUsParent {
+  position: absolute;
+  top: 60px;
+  left: 113px;
+  width: 1029px;
+  height: 132px;
+}
+.calculator,
+.groupFooter {
+  width: 1366px;
+  font-family: Poppins;
+}
+.groupFooter {
+  position: absolute;
+  top: 905px;
+  left: 0;
+  height: 272px;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.calculator {
+  position: relative;
+  background-color: #000;
+  height: 1177px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 64px;
+  color: #fff;
+}

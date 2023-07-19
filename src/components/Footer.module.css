@@ -1,0 +1,8 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  width: 1366px;
+  height: 272px;
+}
